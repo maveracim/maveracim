@@ -1,4 +1,4 @@
-   <h2 align="center">Merhaba! Ben Mavera. Lakabım "Patlak Botçu" ve "İbne"dir XD</h2>
+   <h2 align="center">Maverayım İbneyim Aptal Botçuyum Acar Botları Çalarım Öyle İşte Kanka.</h2>
 
 <h3>Mavera'nın Kişisel Hesapları:</h3>
 <p align="left">
