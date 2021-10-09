@@ -1,9 +1,8 @@
    <h2 align="center">Maverayım İbneyim Aptal Botçuyum Acar Botları Çalarım Öyle İşte Kanka.</h2>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853164355578888202?hideDiscrim=true)](https://discord.com/users/853164355578888202)
-
 <h3>Mavera'nın Kişisel Hesapları:</h3>
 <p align="left">
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853164355578888202?hideDiscrim=true)](https://discord.com/users/853164355578888202)
 <a href="https://discord.com/users/853164355578888202" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://instagram.com/maveraxd" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://github.com/Maveracim" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
