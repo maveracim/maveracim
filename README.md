@@ -1,4 +1,4 @@
-   <h2 align="center">Sanal Hayat Boş Altyapı Çalmak Hoş 👌</h2>
+   <h2 align="center">Sanal Boş Altyapı Çalmak Hoş 👌</h2>
 
 <h3>Şahsıma Ait Hesaplar:</h3>
 <p align="left">
