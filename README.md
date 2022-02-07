@@ -1,11 +1,7 @@
    <h2 align="center">Sanal Boş Altyapı Çalmak Hoş 👌</h2>
 
-<h3>Şahsıma Ait Hesaplar:</h3>
-<p align="left">
-<a href="https://discord.com/users/853164355578888202" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://github.com/Maveracim" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-</br><img src="https://komarev.com/ghpvc/?username=Maveracim&color=dc143c"/>
-</p>
+## OKUMAN GEREKEN PROJE ;
+https://github.com/maveracim/kahpe-discord
 
 ## Geliştirmek Üzere Çalıştığım Diller:
 
