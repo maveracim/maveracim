@@ -1,7 +1,8 @@
    <h2 align="center">Sanal Boş Altyapı Çalmak Hoş 👌</h2>
 
-## OKUMAN GEREKEN PROJE ;
-https://github.com/maveracim/kahpe-discord
+## Tüm botlar için tüm report'ları incelemeyi unutma.
+
+<img src="https://komarev.com/ghpvc/?username=maveracim&label=Ziyaretçi%20Sayısı&color=552b75" alt="maveracim" />
 
 ## Geliştirmek Üzere Çalıştığım Diller:
 
